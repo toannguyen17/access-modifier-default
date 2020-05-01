@@ -1,6 +1,6 @@
 package app.redt;
 
-class Simple {
+public class Simple {
     void msg() {
         System.out.println("Hello java");
     }
